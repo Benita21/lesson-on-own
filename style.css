@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 2rem;
+    background-color: blue;
+}
+.xx{
+    display: flex;
+    justify-content: space-between;
+
+}
+.yy{
+    display: flex;
+    justify-content: space-between;
+    gap: 5rem;
+}
+.uu{
+    display: flex;
+}
+.card{
+    margin-left: 3rem;
+    padding-left: 3rem;
+    width: 30vw;
+    height: 30vh;
+    background-color: maroon;
+    padding-top: 3rem;
+    margin-top: 3rem;
+}
+.cup{
+    display: flex;
+    justify-content: center;
+    padding: 2rem 2rem;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.can{
+    justify-content: space-between;
+    width: 28%;
+    height: 28%;
+    background-color: goldenrod;
+    padding: 2rem;
+
+    }
+    .jag{
+        width: 28%;
+        height: 28%;
+        background-color: orangered;
+        padding: 2rem 2rem;
+        margin-left: 3rem;
+    }
